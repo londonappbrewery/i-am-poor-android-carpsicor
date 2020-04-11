@@ -33,10 +33,10 @@
         android:id="@+id/Text_poor"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="60dp"
         android:layout_marginStart="170dp"
+        android:layout_marginTop="60dp"
 
-        android:text="POOR"
+        android:text="@string/Title2"
         android:textColorLink="#000000"
         android:textSize="50sp"
         android:textStyle="bold" />
